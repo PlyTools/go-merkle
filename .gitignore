@@ -1,3 +1,6 @@
+# Config of Jetbrains
+.idea
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
